@@ -1,2 +1,6 @@
 datos personales
-gabriel castillo
+gabriel 
+apellidos
+castillo
+email
+gacamo2015@gmail.com
